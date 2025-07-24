@@ -7,8 +7,8 @@
 * 📊 **Interactive Tableau Dashboard:**
   👉 [Click here to view the live dashboard on Tableau Public](https://public.tableau.com/views/COVID-19IndonesiaDataset_17531634641070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
-* 📄 **Dashboard Report (PDF format):**
-  👉 [Download the PDF version here](Covid%2019%20Indonesia%20Dashboard.pdf)
+* 📄 **Dashboard Report:**
+  👉 [Click here to view the dashboard](./Dashboard/)
 
 ---
 
